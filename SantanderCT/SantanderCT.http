@@ -1,0 +1,6 @@
+@SantanderCT_HostAddress = http://localhost:5134
+
+GET {{SantanderCT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
